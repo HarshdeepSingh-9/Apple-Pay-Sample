@@ -1,5 +1,4 @@
 # Web-Development
 Practise CSS, BootStrap, HTML, JS 
 
-Link for Template p2 --- > 
-https://codepen.io/harshdeep-Singh-the-selector/pen/xxmQLbv
+Link for Dark_mode_sample  --- > https://harshdeepsingh-9.github.io/Web-Development/Dark_mode_sample.html
